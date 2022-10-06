@@ -31,3 +31,8 @@ URL do curso -> [Organização de Equipes Ágeis - Os Papéis Existentes em uma 
 * **Funcionalidades**: essa equipe se organiza em torno de uma funcionalidade e se preocupa em maximizar o valor na entrega ao usuário para uma melhor experiência possível. A equipe precisa ser multidisciplinar, já que ela precisa trabalhar em diversos pontos no código.
 * **Componente**: essa equipe funciona muito bem para fazer otimizações locais, porém pode ser crítico mexer em um componente já que ele é usado em diversas funcionalidades, além de garantir a sincronização dos componentes que foram alterados.
 * **Jornada do cliente**: essa equipe foca em grupos de clientes que possui comportamentos ou necessidades semelhantes.
+
+## 04 - O Scrum Team &#x1F516;
+* **Negócio**: responsabilidade em garantir que o produto a ser desenvolvido faça sentido para o mercado. Não adianta você produzir o melhor produto, se não tem cliente para o mesmo.
+* **Tecnológica**: responsabilidade em garantir que o produto produzido esteja correto para aquele mercado em específico e público-alvo.
+* **Eficiência**: responsabilidade em garantir que o time opere com uma melhor qualidade possível.
