@@ -36,3 +36,7 @@ URL do curso -> [Organização de Equipes Ágeis - Os Papéis Existentes em uma 
 * **Negócio**: responsabilidade em garantir que o produto a ser desenvolvido faça sentido para o mercado. Não adianta você produzir o melhor produto, se não tem cliente para o mesmo.
 * **Tecnológica**: responsabilidade em garantir que o produto produzido esteja correto para aquele mercado em específico e público-alvo.
 * **Eficiência**: responsabilidade em garantir que o time opere com uma melhor qualidade possível.
+
+## 05 - O Product Owner &#x1F516;
+* Nessa aula aprendemos que a pessoa responsável pelo papel de *Product Owner* tem o desafio de conseguir **maximizar o valor** que aquele produto irá gerar para o negócio. Para isso, o *PO*, além de precisar ter um foco alto e senso de dono, precisará conversar frequentemente com as outras áreas que fazem parte da empresa, para entender quais são os pontos-chave que remetem a dor dos clientes, e conhecer a fundo o produto e mercado em que a empresa está inserida.
+* No seu dia a dia, o *PO* terá que descrever o que precisa ser feito, e para isso, é necessário conversar com outras áreas para entender as necessidades e também o que pode ou não ser feito. Além de priorizar o que precisa ser construído, muitas vezes o *PO* terá que dizer não para funcionalidades que agregam menos valor para o negócio/projeto naquele momento.
