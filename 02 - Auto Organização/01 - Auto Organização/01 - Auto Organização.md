@@ -1,0 +1,1 @@
+Em uma equipe organizada, todos devem ter o mesmo objetivo para ser cumprido.

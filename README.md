@@ -17,3 +17,10 @@ URL do curso -> [Organização de Equipes Ágeis - Os Papéis Existentes em uma 
 ### 01 - Equipe Ágil
 * As etapas de uma equipe ágil.
 * Os possíveis problemas de uma equipe ágil.
+
+***
+
+## 02 - Auto Organização &#x1F516;
+* **Objetivo compartilhado**: defina o objetivo no qual todos da equipe participarão do desenvolvimento do projeto de forma compartilhada.
+* **Timebox**: espaço de tempo necessário para que a auto organização funcione.
+* **Restrições**: o que não deve ser feito no desenvolvimento do projeto.
