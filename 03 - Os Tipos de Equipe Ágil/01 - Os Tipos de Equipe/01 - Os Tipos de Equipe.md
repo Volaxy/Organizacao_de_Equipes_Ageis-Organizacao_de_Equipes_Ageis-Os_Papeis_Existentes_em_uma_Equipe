@@ -1,0 +1,1 @@
+Muitas equipes são focadas em componentes, onde elas focam nas otimizações locais.

@@ -24,3 +24,10 @@ URL do curso -> [Organização de Equipes Ágeis - Os Papéis Existentes em uma 
 * **Objetivo compartilhado**: defina o objetivo no qual todos da equipe participarão do desenvolvimento do projeto de forma compartilhada.
 * **Timebox**: espaço de tempo necessário para que a auto organização funcione.
 * **Restrições**: o que não deve ser feito no desenvolvimento do projeto.
+
+***
+
+## 03 - Os Tipos de Equipe Ágil &#x1F516;
+* **Funcionalidades**: essa equipe se organiza em torno de uma funcionalidade e se preocupa em maximizar o valor na entrega ao usuário para uma melhor experiência possível. A equipe precisa ser multidisciplinar, já que ela precisa trabalhar em diversos pontos no código.
+* **Componente**: essa equipe funciona muito bem para fazer otimizações locais, porém pode ser crítico mexer em um componente já que ele é usado em diversas funcionalidades, além de garantir a sincronização dos componentes que foram alterados.
+* **Jornada do cliente**: essa equipe foca em grupos de clientes que possui comportamentos ou necessidades semelhantes.
